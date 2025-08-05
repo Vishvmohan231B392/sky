@@ -2,5 +2,7 @@
 
 sky is blue
 
+blue is color
+
 
 
